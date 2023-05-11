@@ -1,0 +1,162 @@
+
+.eslogan{
+  position: absolute;
+  left: 1125px;
+  font-size: 35px;
+  top: 250px;
+}
+.combi{
+  width: 550px;
+  height: 400px;
+  position: absolute;
+ left: 1050px;
+  top: 250px;
+  
+}
+
+.chimalli{
+  position: static;
+  margin-left: 12%;
+}
+
+.containerPrincipal {
+    position: absolute;
+      left: 30%;
+      top: 55%;
+      width: 400px;
+      height: 500px;
+      font-size: 20px;
+      transform: translate(-50%, -50%);
+      border: 1px transparent #00909E;
+      border-radius: 20px;
+      box-shadow: 5px 3px 3px 3px rgba(0, 0, 0, 0.247);
+      padding: 40px;
+      background-color: #fff;
+      
+
+
+  }
+
+
+  .eslogan2{
+    position: absolute;
+    left: 450px;
+    top: 250px;
+  }
+
+  .combi2{
+    width: 550px;
+    height: 400px;
+    position: absolute;
+   left: 400px;
+    top: 300px;
+    
+  }
+
+  .chimalli2{
+    position: static;
+    margin-left: 50%;
+  }
+  .containerRegistro {
+    position: absolute;
+      left: 70%;
+      top: 60%;
+      width: 400px;
+      height: 700px;
+      
+      transform: translate(-50%, -50%);
+      border: 1px transparent #00909E;
+      border-radius: 20px;
+      box-shadow: 5px 3px 3px 3px rgba(0, 0, 0, 0.247);
+      padding: 40px;
+      background-color: #fff;
+      
+
+
+  }
+  
+
+  label{
+    margin: -50px;
+    color: #00909E;
+  }
+
+  .containerSecundario{
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .otros{
+    margin-top: 50px;
+  }
+  
+  .RegistrateAhora{
+    text-justify: auto;
+    text-decoration: none;
+    color: #00909E;
+  }
+
+  .LoginP{
+
+    margin-left: 95px;
+    text-decoration: none;
+    color: #00909E;
+  }
+
+  .ache6{
+    font-size: 20px;
+  }
+
+.BannerChimal{
+  width: 1880px;
+  height: 550px;
+  margin-top: 0px;
+}
+.Vision{
+  align-items: center;
+  margin-left: -50px;
+  width: 750px;
+  height: 500px;
+}
+.BannerUnidad{
+  width: 1880px;
+  height: 350px;
+  margin-top: 0px;
+}
+
+.Camara{
+  width: 550px;
+  height: 550px;
+  margin-left: 650px;
+}
+.ContactanosImg{
+  width: 750px;
+  height: 450px;
+  margin-left: 550px;
+}
+
+.Btn_Appbar{
+  color: #fff;
+  font-size: 20px;
+  display: inline-block;
+  line-height: 5;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 80px;
+}
+
+.Btn_Appbar:hover{
+  text-decoration: none;
+  color: #00909E;
+}
+
+.BotonRedes{
+  text-decoration: none;
+  margin-left: 110px;
+  font-size: 15px;
+}
+.Collage{
+  margin-left: 500px;
+  width: 850px;
+  height: 600px;
+}

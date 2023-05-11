@@ -1,0 +1,26 @@
+{
+  "name": "back_nuevo",
+  "version": "1.0.0",
+  "description": "nuevo back de cumbieros",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Carlos Ruiz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "module-alias": "^2.2.2",
+    "mysql2": "^3.2.0",
+    "node-input-validator": "^4.5.1"
+  },
+  "_moduleAliases": {
+    "@controllers": "./src/controllers",
+    "@models": "./src/models",
+    "@routes": "./src/routes",
+    "@validators": "./src/validators",
+    "@config": "./src/config"
+  }
+}
